@@ -8,6 +8,7 @@ $PayPalApiUsername 		= 'cjando_api4.abv.bg'; //PayPal API Username
 $PayPalApiPassword 		= '1406266214'; //Paypal API password
 $PayPalApiSignature 	= 'A1oFRha8n2siiYXotpx3rf9sHRiHAMIZp-otgClosK50z6tTu6kyEIlT'; //Paypal API Signature
 $PayPalCurrencyCode 	= 'USD'; //Paypal Currency Code
-$PayPalReturnURL 		= 'http://localhost/paypal/process.php'; //Point to process.php page
-$PayPalCancelURL 		= 'http://localhost/paypal/cancel_url.php'; //Cancel URL if user clicks cancel
+$PayPalReturnURL 		= 'http://localhost/TouristSite/paypal/process.php'; //Point to process.php page
+$PayPalCancelURL 		= 'http://localhost/TouristSite/paypal/cancel_url.php'; //Cancel URL if user clicks cancel
 ?>
+
